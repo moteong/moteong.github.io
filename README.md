@@ -1,1 +1,1 @@
-# moteong.github.io
+# [moteong.github.io](https://hoo.be/shenmag)
