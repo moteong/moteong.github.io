@@ -1,4 +1,4 @@
-# 从0到1，从1到100：每日大赛助力自媒体人全面进阶
+# [从0到1，从1到100：每日大赛助力自媒体人全面进阶](https://mrds-b.gitbook.io/mrds-b-docs/)
 # [每日大赛](https://www.selfmediastudio.cc/)：https://www.selfmediastudio.cc/
 自媒体创业看似门槛低，实则每一步都暗藏挑战。选题焦虑、流量波动、变现困难......这些是否也是你正在经历的瓶颈？
 
